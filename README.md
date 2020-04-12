@@ -1,6 +1,6 @@
 # Maldoninho-Routes
 
-Router is a simple class to routing the application using url's to drive the user interface.
+Controller Loader is a simple class to routing the application using url's to drive the user interface.
 
 ## Reequire the ROUTES class
 
