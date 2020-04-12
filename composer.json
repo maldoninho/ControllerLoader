@@ -1,5 +1,5 @@
 {
-    "name": "maldoninho/controller/loader",
+    "name": "maldoninho/controller-loader",
     "type": "library",
     "description": "SIMPLE CLASS TO LOADER THE CONTROLLERS FROM THE APPLICATION",
     "keywords": ["controller", "loader"],
