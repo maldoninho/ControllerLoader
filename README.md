@@ -1,6 +1,6 @@
 # Maldoninho-Routes
 
-Controller Loader is a simple class to routing the application using url's to drive the user interface.
+ControllerLoader is a simple class to routing the application using url's to drive the user interface.
 
 ## Reequire the ROUTES class
 
@@ -34,8 +34,8 @@ ControllerLoader::run(ROUTES, CONTROLLER_LOADER_PATHS);
 
 ### Requirements
 
-DB requires PHP 5.2 or greater.
+ControllerLoader requires PHP 5.2 or greater.
 
 ## License
 
-DB is released under the [MIT] https://opensource.org/licenses/mit-license.php license.
+ControllerLoader is released under the [MIT] https://opensource.org/licenses/mit-license.php license.
